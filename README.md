@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @proazad
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack Developement (MongoDB, ExpressJS, ReactJS and NodeJS)
+- 🌱 I’m currently learning MERN Stack Development (MongoDB, ExpressJS, ReactJS and NodeJS)
 - 💞️ I’m looking to collaborate on MERN Stack Web Development
 - 📫 How to reach me
 - Facebook - <a href="https://facebook.com/azadfree" target="_blank">Azad Hossain</a>
