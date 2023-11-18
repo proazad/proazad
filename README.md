@@ -1,3 +1,4 @@
+<img src="./banner.webp">
 # 💫 About Me:
 
 I'm currently working on MERN Stack<br>I'm Lookinig to collaborate on Open source<br>I'm Looking for help with MERN Stack<br>I'm currently leaderng MERN Stack<br>Ask me about MERN Stack
