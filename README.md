@@ -23,6 +23,6 @@ I'm currently working on MERN Stack<br>I'm Lookinig to collaborate on Open sourc
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,typescript,react,next,mongodb,express,nodejs,tailwind,bootstrap,html,css&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,react,next,mongodb,express,nodejs,tailwind,bootstrap,html,css&perline=5" />
   </a>
 </p>
