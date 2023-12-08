@@ -15,7 +15,7 @@ I'm currently working on MERN Stack<br>I'm Lookinig to collaborate on Open sourc
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=proazad" />
 </a>
 <a href="https://github.com/proazad/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=proazad&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=proazad&layout=compact&langs_count=8&card_width=200" />
 </a>
 <!--
 
