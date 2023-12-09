@@ -18,7 +18,8 @@ Always eager to learn and adapt, I stay on top of the latest trends in web devel
 
 # 📊 GitHub Stats:
 
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=proazad&theme=elegant&border_radius=5.4&width=full&date_format=j%20M%5B%20Y%5D"></p>
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=proazad&theme=elegant&border_radius=5.4&width=full&date_format=j%20M%5B%20Y%5D&card_width=800"></p>
+
 <p align="center"><a href="https://github.com/proazad/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=proazad" />
 </a>
