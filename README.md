@@ -18,7 +18,7 @@ Always eager to learn and adapt, I stay on top of the latest trends in web devel
 
 # 📊 GitHub Stats:
 
- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=proazad&theme=elegant&border_radius=5.4&width=full&date_format=j%20M%5B%20Y%5D&card_width=800"></p>
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=proazad&theme=elegant&border_radius=5.4&width=full&date_format=j%20M%5B%20Y%5D&card_width=800&theme=darcula"></p>
 
 <p align="center"><a href="https://github.com/proazad/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=proazad" />
@@ -27,14 +27,6 @@ Always eager to learn and adapt, I stay on top of the latest trends in web devel
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=proazad&layout=compact&langs_count=8&card_width=200" />
 </a></p>
 <br><br>
-
-# My Skills
-
-<p align="center" style="margin:40px 0px">
-  <a>
-    <img src="https://skillicons.dev/icons?i=js,react,next,mongodb,express,nodejs,tailwind,bootstrap,html,css,github,figma,photoshop&perline=8" />
-  </a>
-</p>
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proazad&theme=darcula"  style="margin:40px 0px,width:auto">
@@ -48,4 +40,12 @@ Always eager to learn and adapt, I stay on top of the latest trends in web devel
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=proazad&theme=darcula" align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=proazad&theme=darcula&utcOffset=8" align="center">
+</p>
+
+# My Skills
+
+<p align="center" style="margin:40px 0px">
+  <a>
+    <img src="https://skillicons.dev/icons?i=js,react,next,mongodb,express,nodejs,tailwind,bootstrap,html,css,github,figma,photoshop&perline=8" />
+  </a>
 </p>
