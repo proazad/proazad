@@ -38,3 +38,6 @@ Always eager to learn and adapt, I stay on top of the latest trends in web devel
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proazad&theme=darcula)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proazad&theme=darcula)
