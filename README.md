@@ -38,10 +38,12 @@ Always eager to learn and adapt, I stay on top of the latest trends in web devel
 
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proazad&theme=darcula">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proazad&theme=darcula">
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=proazad&theme=darcula)
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proazad&theme=darcula" align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=proazad&theme=darcula" align="center">
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=proazad&theme=darcula)
 
