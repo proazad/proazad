@@ -18,9 +18,8 @@ Always eager to learn and adapt, I stay on top of the latest trends in web devel
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=proazad&theme=elegant&border_radius=5.4&width=full&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<p><a href="https://github.com/proazad/github-readme-stats">
+ <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=proazad&theme=elegant&border_radius=5.4&width=full&date_format=j%20M%5B%20Y%5D"></p>
+<p align="center"><a href="https://github.com/proazad/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=proazad" />
 </a>
 <a href="https://github.com/proazad/convoychat">
@@ -30,18 +29,18 @@ Always eager to learn and adapt, I stay on top of the latest trends in web devel
 
 # My Skills
 
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=js,react,next,mongodb,express,nodejs,tailwind,bootstrap,html,css,github,figma,photoshop" />
+<p align="center" style="margin:40px 0px">
+  <a>
+    <img src="https://skillicons.dev/icons?i=js,react,next,mongodb,express,nodejs,tailwind,bootstrap,html,css,github,figma,photoshop&perline=8" />
   </a>
 </p>
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proazad&theme=darcula">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proazad&theme=darcula"  style="margin:40px 0px,width:auto">
 </p>
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proazad&theme=darcula" align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proazad&theme=darcula" align="center" style="margin:40px 0px">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=proazad&theme=darcula" align="center">
 </p>
 
