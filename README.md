@@ -20,12 +20,12 @@ Always eager to learn and adapt, I stay on top of the latest trends in web devel
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=proazad&theme=elegant&border_radius=5.4&width=full&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<a href="https://github.com/proazad/github-readme-stats">
+<p><a href="https://github.com/proazad/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=proazad" />
 </a>
 <a href="https://github.com/proazad/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=proazad&layout=compact&langs_count=8&card_width=200" />
-</a>
+</a></p>
 <br><br>
 
 # My Skills
@@ -36,16 +36,13 @@ Always eager to learn and adapt, I stay on top of the latest trends in web devel
   </a>
 </p>
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proazad&theme=darcula)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proazad&theme=darcula)
-
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=proazad&theme=darcula">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proazad&theme=darcula">
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=proazad&theme=darcula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=proazad&theme=darcula)
-
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=proazad&theme=darcula&utcOffset=8)
