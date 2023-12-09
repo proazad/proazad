@@ -41,3 +41,11 @@ Always eager to learn and adapt, I stay on top of the latest trends in web devel
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=proazad&theme=darcula)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=proazad&theme=darcula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=proazad&theme=darcula)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=proazad&theme=darcula&utcOffset=8)
