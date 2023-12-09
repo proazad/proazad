@@ -32,7 +32,7 @@ Always eager to learn and adapt, I stay on top of the latest trends in web devel
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,react,next,mongodb,express,nodejs,tailwind,bootstrap,html,css&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,react,next,mongodb,express,nodejs,tailwind,bootstrap,html,css,github,figma,photoshop" />
   </a>
 </p>
 
